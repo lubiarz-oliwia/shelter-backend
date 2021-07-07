@@ -1,0 +1,70 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Charlie",
+      "date": "22/07/2020",
+      "age": "9",
+      "size": "mały",
+      "breed": "owczarek niemiecki",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled i"
+    },
+    {
+      "id": 2,
+      "name": "Misia",
+      "date": "22/07/2020",
+      "age": "5",
+      "size": "mały",
+      "breed": "owczarek niemiecki",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled i"
+    },
+    {
+      "id": 3,
+      "name": "Burek",
+      "date": "22/07/2020",
+      "age": "2",
+      "size": "mały",
+      "breed": "owczarek niemiecki",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled i"
+    },
+    {
+      "id": 4,
+      "name": "Charlie",
+      "date": "22/07/2020",
+      "age": "9",
+      "size": "mały",
+      "breed": "owczarek niemiecki",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled i"
+    },
+    {
+      "id": 5,
+      "name": "Misia",
+      "date": "22/07/2020",
+      "age": "5",
+      "size": "mały",
+      "breed": "owczarek niemiecki",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled i"
+    },
+    {
+      "id": 6,
+      "name": "Burek",
+      "date": "22/07/2020",
+      "age": "2",
+      "size": "mały",
+      "breed": "owczarek niemiecki",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled i"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "login": "olioli",
+      "password": "123456abcA!"
+    },
+    {
+      "id": 2,
+      "login": "mismis",
+      "password": "123456abcA!!!"
+    }
+  ]
+}

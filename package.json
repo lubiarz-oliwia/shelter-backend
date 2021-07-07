@@ -1,0 +1,23 @@
+{
+  "name": "shelter-backend",
+  "version": "1.0.0",
+  "description": "shelter",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lubiarz-oliwia/shelter-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lubiarz-oliwia/shelter-backend/issues"
+  },
+  "homepage": "https://github.com/lubiarz-oliwia/shelter-backend#readme"
+}
